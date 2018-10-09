@@ -54,7 +54,7 @@ Example:
 ## This code uses pass by reference    
 def stamps(k,m,n):
     '''
-    Input an integer k
+    Input an integer k >= 8 
           non empty list m,n 
     output: None, print k = 5m+3n
     '''
@@ -112,6 +112,12 @@ ANSWER the following question:
 
 """
 
+
+def stamps_iter(n):
+    '''
+    Input an integer n >= 8
+    output: None, print for k=1 to n :  k = 5m+3n
+    '''
 
 
 
