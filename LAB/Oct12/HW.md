@@ -5,7 +5,7 @@ Mathermatical induction
     
     จงพิสูจน์ Theorem ต่อไปนี้โดยอาศัย Mathermatical induction 
     
-    Theorem: สำหรับจำนวนนับ n > 0 ใด ๆ  กำหนดให้ฟังก์ชัน 
+    Theorem: สำหรับจำนวนนับ n  ใด ๆ  กำหนดให้ฟังก์ชัน 
 <a href="https://www.codecogs.com/eqnedit.php?latex=f(n)&space;=&space;\sum_{i=1}^{n}&space;(2*i&space;-&space;1)&space;=&space;n^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(n)&space;=&space;\sum_{i=1}^{n}&space;(2*i&space;-&space;1)&space;=&space;n^2" title="f(n) = \sum_{i=1}^{n} (2*i - 1) = n^2" /></a>    
  Proof: 
  
