@@ -11,18 +11,19 @@ Mathermatical induction
  
  เเสดงวิธีทำโดยเติมข้อความในช่องว่าให้สมบูรณ์
  
-    Base case:
+    Base case (BC):
  
-     n = ?   
-        
-    IH:
-    
+         n = ?   
+         f(n) = ?
      
+    Inductive Hypothesis (IH):
+    
+         precisely state what is IH 
         
-    IS:
+    Inductive Step (IS):
         
-    for x = n + 1
-    show that f(x) = x^2 
+        for x = n + 1
+        show that f(x) = x^2 
     
     
     
