@@ -122,12 +122,14 @@ def stamps(k,m,n):
             print('k:%d =5* %d + 3*%d' % (k, m[0],n[0]))  
 
 # Example 
-stamps(13,[1],[1])
+a = [1]
+b = [1]
+stamps(13,a,b)
 
 """
 Open the following link and trace how the above code work on Pythontutor
 
-https://goo.gl/dgSq1i
+https://goo.gl/dhQzau
 
 ANSWER the following question:
 How many local stamps' frame were created  when running  stamps(13,[1],[1])?  
