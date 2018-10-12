@@ -12,21 +12,21 @@ Mathermatical induction
 
  Proof: 
  
- เเสดงวิธีทำโดยเติมข้อความในช่องว่าให้สมบูรณ์
+ เเสดงวิธีทำโดยเติมข้อความให้สมบูรณ์
  
-    Base case (BC):
- 
-         n = ?   
-         f(n) = ?
      
     Inductive Hypothesis (IH):
-    
-         precisely state what is IH? 
-        
+
+        สมมติฐานคือ ? (precisely state what is your IH? )
+
+    Base case (BC): 
+         n = ?   
+         f(n) = ?
+
     Inductive Step (IS):
         
         for n = n + 1
-        เเสดงให้เห็นว่าสมมติฐานสำหรับ f(n+1) ยังคงถูกต้องอยู่ 
+        เเสดงให้เห็นว่าสมมติฐานยังคงใช้ได้สำหรับ f(n+1) 
     
     
     
