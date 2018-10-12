@@ -21,12 +21,12 @@ Mathermatical induction
      
     Inductive Hypothesis (IH):
     
-         precisely state what is IH 
+         precisely state what is IH? 
         
     Inductive Step (IS):
         
-        for x = n + 1
-        show that f(x) = H?
+        for n = n + 1
+        เเสดงให้เห็นว่าสมมติฐานสำหรับ f(n+1) ยังคงถูกต้องอยู่ 
     
     
     
