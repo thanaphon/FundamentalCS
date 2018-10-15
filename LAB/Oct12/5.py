@@ -56,7 +56,7 @@ Note: เพื่อความสะดวกในการเเสดง�
 
 
 
-1) ให้น้อง ๆ อธิบาย Equivalence class ของตัวแปร x สำหรับ function comp(x)     
+1) ให้น้อง ๆ อธิบาย Equivalence classes ของตัวแปร x สำหรับ function comp(x)     
 
 
 
