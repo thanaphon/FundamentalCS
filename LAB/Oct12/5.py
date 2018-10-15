@@ -15,7 +15,7 @@ def sign(x):
     ''' 
     input: an integer x
     output: sign of x 
-    Ex: sign(-7) = 'negative', sign(3) = 'plus' sign(0) = 'zeor' 
+    Ex: sign(-7) = 'negative', sign(3) = 'plus' sign(0) = 'zero' 
     '''
     if x > 0:
         return ('plus')
