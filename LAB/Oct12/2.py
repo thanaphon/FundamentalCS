@@ -14,15 +14,12 @@ TODO
     (Convert a given recursive fn to iterative fn and the otherway around)
     
         a) implement fib  using iterative method 
-
-
-
 """
 
 
-define iter_mul(a,b):
+def iter_mul(a,b):
       '''
-      Implement multiplication function using iterative stlye: 
+      Implement multiplication function using iterative style: 
       
       input: an interger a and a natural number b 
       output a*b  
@@ -34,8 +31,7 @@ define iter_mul(a,b):
 
 def recur_mul(a,b):
       '''
-      Implement multiplication function using recursive stlye: 
-
+      Implement multiplication function using recursive style: 
       input: an interger a and a natural number b 
       output a*b  
       NOTE: only allow to use build in + function cannot use *
@@ -46,9 +42,9 @@ def recur_mul(a,b):
         # Recur on the smaller problem   
 
 
-def power(a,b)
+def power(a,b):
       '''
-      Implement power function using recursive stle (without buildin **)
+      Implement power function using recursive style (without buildin **)
       input: an interger a and a natural number b
       output a^b  
       '''
@@ -91,6 +87,4 @@ def iter_fib(n):
     f(0) = 0, f(1) = 1, f(n) = f(n-1) + f(n-2) 
     '''
     
-    
- 
 
