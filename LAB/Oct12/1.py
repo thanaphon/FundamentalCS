@@ -147,7 +147,7 @@ ANSWER the following question:
 def stamps_iter(n):
     '''
     Input an integer n >= 8
-    output: None, print for k=1 to n :  k = 5m+3n
+    output: None, print for k=8 to n :  k = 5m+3n
     '''
 
 
